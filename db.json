@@ -1,0 +1,29 @@
+{
+    "students":[
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 20,
+            "image": "https://via.placeholder.com/150?text=John+Doe"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 22,
+            "image": "https://via.placeholder.com/150?text=Jane+Smith"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "age": 19,
+            "image": "https://via.placeholder.com/150?text=Alice+Johnson"
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "age": 21,
+            "image": "https://via.placeholder.com/150?text=Bob+Brown"
+        }
+    ]
+    
+}
